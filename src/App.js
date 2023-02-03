@@ -117,7 +117,8 @@ return (
 <aside className="sidemenu"> 
   <h3 className="sidemenu-header">Jonald.ai</h3>
    <button className="side-menu-button" onClick={clearChat}> Reset</button> 
-   <button className="side-menu-button" onClick={() => {window.open('https://www.ikonshop.io/product/cldo9ob98h9hd0ail28o9dtko', '_blank')}}>OpenAI API Budget</button>
+   <button className="side-menu-button" onClick={() => {window.open('https://www.ikonshop.io/product/cldo9ob98h9hd0ail28o9dtko', '_blank')}}>API call budget</button>
+   <button className="side-menu-button" onClick={() => {window.open('https://www.kariai.xyz', '_blank')}}>Sign up for Kari.ai, my main project</button>
     <h4 className="sidemenu-header">Credit: Matt for tip jar</h4>
    </aside>
       <section className="chatbox">
