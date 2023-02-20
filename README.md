@@ -1,3 +1,6 @@
+# What this project is
+A GPT chat interface that allows you to generate tweets in a specific style of a brand
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
